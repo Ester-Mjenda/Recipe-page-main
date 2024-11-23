@@ -5,6 +5,12 @@
     text-decoration: none;
 }
 body{
-    background-color:  hsl(330, 100%, 98%);
+    background-color:  wheat;
+    /* background-color: hsl(332, 51%, 32%);
+    background-color: hsl(14, 45%, 36%);
+    background-color: hsl(24, 5%, 18%);
+    background-color: hsl(30, 10%, 34%);
+    background-color: hsl(30, 18%, 87%); */
     Font-size: 15px;
+    padding: 10%;
 }
