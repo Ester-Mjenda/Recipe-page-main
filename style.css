@@ -13,10 +13,10 @@ body{
 }
 .box{
     background-color: white;
-    width: 50vw;
-    padding: 10%;
+    width: 50%;
+    padding: 1%;
 }
 img{
     height: auto;
-    width: auto;
+    width: 40%;
 }
