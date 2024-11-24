@@ -10,12 +10,12 @@ body{
     Font-size: 15px;
     align-items: center;
     align-content: center;
-    margin: 10%;
 }
 .box{
-    background-color: yellow;
+    background-color: white;
     width: 50vw;
 }
 img{
-    height: 10%;
+    height: auto;
+    width: autos;;
 }
