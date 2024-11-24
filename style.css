@@ -5,12 +5,16 @@
     text-decoration: none;
 }
 body{
-    background-color:  wheat;
-    /* background-color: hsl(332, 51%, 32%);
-    background-color: hsl(14, 45%, 36%);
-    background-color: hsl(24, 5%, 18%);
-    background-color: hsl(30, 10%, 34%);
-    background-color: hsl(30, 18%, 87%); */
+    /* background-color:  yellow; */
+    background-color:  hsl(30, 54%, 90%);
     Font-size: 15px;
-    padding: 10%;
+    align-items: center;
+    align-content: center;
+}
+.box{
+    background-color: white;
+    width: 50vw;
+}
+img{
+    height: 50%;
 }
