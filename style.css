@@ -10,6 +10,7 @@ body{
     Font-size: 15px;
     align-items: center;
     align-content: center;
+    margin: 10%;
 }
 .box{
     background-color: yellow;
