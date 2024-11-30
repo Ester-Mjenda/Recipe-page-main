@@ -7,16 +7,76 @@
 body{
     /* background-color:  yellow; */
     background-color:  hsl(30, 54%, 90%);
-    Font-size: 15px;
-    align-items: center;
-    align-content: center;
+    padding: 5% 0 ;
+    margin-left: 30%;
+    Font-size: 14px;
+    font-family: Outfit;
 }
 .box{
     background-color: white;
-    width: 40%;
-    padding: 1%;
+    width: 61%;
+    padding: 2%;
+    border-radius: 12px;
 }
 img{
     height: auto;
-    width: 90%;
+    width: 100%;
+    border-radius: 12px;
+}
+h1{
+    font-family: Young Serif;
+    font-size: 25px;
+}
+p,li{
+    font-size: 13px;
+}
+.preparation{
+    background-color:hsl(330, 100%, 98%);
+    padding: 10px 20px;
+    border-radius: 12px;
+}
+h3{
+    color:hsl(332, 51%, 32%);
+}
+.preparation ul{
+    padding:0 12px;
+    line-height: 1.5;
+}
+h2{
+    color:hsl(14, 45%, 36%);
+    padding-top: 10px;
+    font-family: Young Serif;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+ol,ul{
+    padding-left: 15px;
+    line-height:1.5 ;
+}
+hr{
+    margin-top: 10px;
+}
+.left-right{
+    display: flex;
+    padding-left: 7%;
+}
+.right{
+    color: hsl(14, 45%, 36%);
+    margin-left: 34.5%;
+    font-weight: bold;
+}
+.right-1{
+    color: hsl(14, 45%, 36%);
+    margin-left: 38%;
+    font-weight: bold;
+}
+.right-2{
+    color: hsl(14, 45%, 36%);
+    margin-left: 36%;
+    font-weight: bold;
+}
+.right-3{
+    color: hsl(14, 45%, 36%);
+    margin-left: 41%;
+    font-weight: bold;
 }
